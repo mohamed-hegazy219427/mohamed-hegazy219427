@@ -94,14 +94,14 @@ I'm a **Full Stack MERN Developer** based in Egypt with 2+ years of professional
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-hegazy219427&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-hegazy219427&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-hegazy219427&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-hegazy219427&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohamed-hegazy219427&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohamed-hegazy219427&theme=tokyonight&border_radius=5)](https://github.com/mohamed-hegazy219427)
 
 </div>
 
