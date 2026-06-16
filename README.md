@@ -157,8 +157,8 @@ I care deeply about **performance, clean code, and developer experience** — wh
 
 | Role | Company | Period |
 |------|---------|--------|
-| Full Stack Developer | **Guestna** (Remote) | 2025 – Present |
-| Full Stack Developer | **Business Integration BITC** | Jan 2025 – Present |
+| Full Stack Developer | **Guestna** (Remote) | Oct 2025 – Present |
+| Full Stack Developer | **Business Integration BITC** (On-site, Cairo) | Feb 2025 – Sep 2025 |
 | Frontend Developer | **Interactive Future** (Remote) | Apr 2024 – Jan 2025 |
 | MERN Stack Intern | **Route Academy** | Dec 2022 – Oct 2023 |
 
