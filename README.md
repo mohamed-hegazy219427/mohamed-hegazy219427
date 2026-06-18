@@ -4,14 +4,14 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://mohamedhegazy-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://mohamedhegazy.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-hegazy219427)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedhegazy219427@gmail.com)
-[![CV](https://img.shields.io/badge/Download_CV-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://mohamedhegazy-portfolio.netlify.app/Mohamed_Hegazy_CV.pdf)
+[![CV](https://img.shields.io/badge/Download_CV-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white)](https://mohamedhegazy.netlify.app/Mohamed_Hegazy_CV.pdf)
 
 <br/>
 
-`🟢 Available for Work` · `📍 Cairo, Egypt` · `🌍 Open to Remote & Freelance`
+`🟢 Available for Work` · `🌍 Open to Remote & Freelance`
 
 </div>
 
